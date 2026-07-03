@@ -1,18 +1,40 @@
 # Arrays
 
-Java solutions for LeetCode Array problems.
+This folder contains my Java solutions for LeetCode Array problems.
+
+## Progress
+
+| Solved | Total |
+|--------|------:|
+| 10 | 10 |
+
+---
 
 ## Problems
 
-- ✅ LC1 - Two Sum
-- ✅ LC26 - Remove Duplicates from Sorted Array
-- ✅ LC27 - Remove Element
-- ✅ LC53 - Maximum Subarray
-- ✅ LC88 - Merge Sorted Array
-- ✅ LC121 - Best Time to Buy and Sell Stock
-- ✅ LC125 - Valid Palindrome
-- ✅ LC167 - Two Sum II
-- ✅ LC217 - Contains Duplicate
-- ✅ LC283 - Move Zeroes
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 1 | Two Sum | Easy |
+| 26 | Remove Duplicates from Sorted Array | Easy |
+| 27 | Remove Element | Easy |
+| 53 | Maximum Subarray | Medium |
+| 88 | Merge Sorted Array | Easy |
+| 121 | Best Time to Buy and Sell Stock | Easy |
+| 125 | Valid Palindrome | Easy |
+| 167 | Two Sum II – Input Array Is Sorted | Medium |
+| 217 | Contains Duplicate | Easy |
+| 283 | Move Zeroes | Easy |
 
-**Total:** 10 Problems
+---
+
+## Concepts Covered
+
+- Arrays
+- Two Pointers
+- Hashing
+- Greedy
+- Kadane's Algorithm
+
+---
+
+Language: **Java**
