@@ -33,7 +33,7 @@ java-dsa-journey/
 
 | Topic | Solved |
 |--------|-------:|
-| Arrays | 10 |
+| Arrays | 12 |
 | Strings | 2 |
 | Linked List | 0 |
 | Trees | 0 |
@@ -81,7 +81,7 @@ This repository serves as my personal DSA journal where I:
 
 ## 📈 Current Stats
 
-- ✅ Problems Solved: **12**
+- ✅ Problems Solved: **14**
 - 🔥 Daily Learning in Progress
 - 🚀 Repository Updated Regularly
 

@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Array problems.
 
 | Solved | Total |
 |--------|------:|
-| 10 | 10 |
+| 12 | 12 |
 
 ---
 
@@ -21,7 +21,10 @@ This folder contains my Java solutions for LeetCode Array problems.
 | 88 | Merge Sorted Array | Easy |
 | 121 | Best Time to Buy and Sell Stock | Easy |
 | 125 | Valid Palindrome | Easy |
-| 167 | Two Sum II – Input Array Is Sorted | Medium |
+| 167 | Two Sum II – Input Array Is Sorted | 
+| 136 | Single Number | Easy |
+| 169 | Majority Element | Easy |
+Medium |
 | 217 | Contains Duplicate | Easy |
 | 283 | Move Zeroes | Easy |
 
