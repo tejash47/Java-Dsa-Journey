@@ -25,6 +25,7 @@ This folder contains my Java solutions for LeetCode String problems.
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 9 | Palindrome Number | Easy |
+| 20 | Valid Parentheses | Easy |
 | 242 | Valid Anagram | Easy |
 
 ---
@@ -33,6 +34,7 @@ This folder contains my Java solutions for LeetCode String problems.
 
 - String Manipulation
 - Character Comparison
+- Stack-based String Validation
 - HashMap
 - Frequency Counting
 

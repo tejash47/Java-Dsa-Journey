@@ -34,11 +34,11 @@ java-dsa-journey/
 | Topic | Solved |
 |--------|-------:|
 | Arrays | 12 |
-| Strings | 2 |
+| Strings | 3 |
 | Linked List | 0 |
 | Trees | 0 |
 
-**Total Problems Solved:** **12**
+**Total Problems Solved:** **15**
 
 ---
 
