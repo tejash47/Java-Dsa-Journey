@@ -34,11 +34,12 @@ java-dsa-journey/
 | Topic | Solved |
 |--------|-------:|
 | Arrays | 12 |
-| Strings | 6 |
+| Binary search | 1 |
+| Strings | 7 |
 | Linked List | 0 |
 | Trees | 0 |
 
-**Total Problems Solved:** **18**
+**Total Problems Solved:** **20**
 
 ---
 
@@ -81,7 +82,7 @@ This repository serves as my personal DSA journal where I:
 
 ## 📈 Current Stats
 
-- ✅ Problems Solved: **18**
+- ✅ Problems Solved: **20**
 - 🔥 Daily Learning in Progress
 - 🚀 Repository Updated Regularly
 
