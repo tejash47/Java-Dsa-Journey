@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Array problems.
 
 | Solved | Total |
 |--------|------:|
-| 12 | 12 |
+| 13 | 13 |
 
 ---
 
@@ -27,6 +27,7 @@ This folder contains my Java solutions for LeetCode Array problems.
 Medium |
 | 217 | Contains Duplicate | Easy |
 | 283 | Move Zeroes | Easy |
+| 66 | Plus One | Easy |
 
 ---
 

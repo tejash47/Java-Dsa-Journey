@@ -33,11 +33,11 @@ java-dsa-journey/
 
 | Topic | Solved |
 |--------|-------:|
-| Arrays | 12 |
+| Arrays | 13 |
 | Binary search | 1 |
 | Strings | 7 |
 | Linked List | 0 |
-| Trees | 0 |
+| Trees | 1 |
 
 **Total Problems Solved:** **20**
 

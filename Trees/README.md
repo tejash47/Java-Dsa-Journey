@@ -1,24 +1,37 @@
 # Trees
 
-This folder will contain my Java solutions for Tree problems.
+This folder contains my Java solutions for LeetCode Tree problems.
 
 ## Progress
 
 | Solved | Total |
 |--------|------:|
-| 0 | 0 |
+| 1 | 1 |
 
 ---
 
-## Upcoming Topics
+## Problems
 
-- Binary Tree
-- Binary Search Tree
-- DFS
-- BFS
-- Level Order Traversal
-- Lowest Common Ancestor
-- Balanced Tree
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 701 | Insert into a Binary Search Tree | Medium |
+
+---
+
+## Concepts Covered
+
+- Binary Trees
+- Binary Search Trees (BST)
+- Recursion
+- Tree Traversal
+
+---
+
+## Learning Outcomes
+
+- Understand Binary Search Tree properties
+- Perform recursive insertion
+- Build confidence with tree-based recursion
 
 ---
 
