@@ -34,12 +34,12 @@ java-dsa-journey/
 | Topic | Solved |
 |--------|-------:|
 | Arrays | 13 |
-| Binary search | 1 |
+| Binary search | 3 |
 | Strings | 7 |
 | Linked List | 0 |
 | Trees | 1 |
 
-**Total Problems Solved:** **20**
+**Total Problems Solved:** **24**
 
 ---
 
@@ -60,6 +60,11 @@ java-dsa-journey/
 ### Strings
 - LC9 - Palindrome Number
 - LC242 - Valid Anagram
+
+### Binary search
+ - LC35_SearchInsertPosition.java
+ - LC69_SqrtX.java
+ - LC367_ValidPerfectSquare.java
 
 ---
 
@@ -82,7 +87,7 @@ This repository serves as my personal DSA journal where I:
 
 ## 📈 Current Stats
 
-- ✅ Problems Solved: **20**
+- ✅ Problems Solved: **24**
 - 🔥 Daily Learning in Progress
 - 🚀 Repository Updated Regularly
 

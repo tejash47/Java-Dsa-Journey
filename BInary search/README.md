@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Binary Search problems.
 
 | Solved | Total |
 |--------|------:|
-| 1 | 1 |
+| 3 | 3 |
 
 ---
 
@@ -15,6 +15,8 @@ This folder contains my Java solutions for LeetCode Binary Search problems.
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 35 | Search Insert Position | Easy |
+| 69 | Sqrt(x) | Easy |
+| 367 | Valid Perfect Square | Easy |
 
 ---
 
@@ -24,6 +26,7 @@ This folder contains my Java solutions for LeetCode Binary Search problems.
 - Search Space Reduction
 - Sorted Arrays
 - Divide and Conquer
+- Mathematical Search
 
 ---
 
