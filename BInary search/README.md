@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Binary Search problems.
 
 | Solved | Total |
 |--------|------:|
-| 3 | 3 |
+| 4 | 4 |
 
 ---
 
@@ -17,6 +17,7 @@ This folder contains my Java solutions for LeetCode Binary Search problems.
 | 35 | Search Insert Position | Easy |
 | 69 | Sqrt(x) | Easy |
 | 367 | Valid Perfect Square | Easy |
+| 852 | Peak Index in a Mountain Array | Medium |
 
 ---
 
