@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Binary Search problems.
 
 | Solved | Total |
 |--------|------:|
-| 5 | 5 |
+| 7 | 7 |
 
 ---
 
@@ -19,6 +19,8 @@ This folder contains my Java solutions for LeetCode Binary Search problems.
 | 367 | Valid Perfect Square | Easy |
 | 852 | Peak Index in a Mountain Array | Medium |
 | 374 | Guess Number Higher or Lower | Easy |
+| 278 | First Bad Version | Easy |
+| 441 | Arranging Coins | Easy |
 
 ---
 
