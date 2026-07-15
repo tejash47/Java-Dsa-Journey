@@ -6,15 +6,19 @@ This folder contains my Java solutions for LeetCode Linked List problems.
 
 | Solved | Total |
 |--------|------:|
-| 2 | 2 |
+| 4 | 4 |
 
 ---
+
+## Problems
 
 ## Problems
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 21 | Merge Two Sorted Lists | Easy |
+| 83 | Remove Duplicates from Sorted List | Easy |
+| 141 | Linked List Cycle | Easy |
 | 206 | Reverse Linked List | Easy |
 
 ---
@@ -24,8 +28,10 @@ This folder contains my Java solutions for LeetCode Linked List problems.
 - Singly Linked List
 - Pointer Manipulation
 - Dummy Node
-- Iterative Traversal
+- Fast & Slow Pointers
+- Cycle Detection
 - In-place Reversal
+- Duplicate Removal
 
 ---
 
@@ -34,7 +40,8 @@ This folder contains my Java solutions for LeetCode Linked List problems.
 - Traverse linked lists efficiently
 - Merge sorted linked lists
 - Reverse a linked list in-place
-- Understand pointer manipulation
+- Detect cycles using Floyd's Algorithm
+- Remove duplicates from sorted linked lists
 
 ---
 
