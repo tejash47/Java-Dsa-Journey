@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 
 | Solved | Total |
 |--------|------:|
-| 4 | 4 |
+| 6 |  6|
 
 ---
 
@@ -18,6 +18,8 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 | 232 | Implement Queue using Stacks | Easy |
 | 933 | Number of Recent Calls | Easy |
 | 20 | Valid Parentheses | Easy |
+| 682 | Baseball Game | Easy |
+| 155 | Min Stack | Medium |
 
 ---
 
