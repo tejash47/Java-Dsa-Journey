@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 
 | Solved | Total |
 |--------|------:|
-| 6 |  6|
+| 8 | 8 |
 
 ---
 
@@ -20,6 +20,8 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 | 20 | Valid Parentheses | Easy |
 | 682 | Baseball Game | Easy |
 | 155 | Min Stack | Medium |
+| 901 | Online Stock Span | Medium |
+| 739 | Daily Temperatures | Medium |
 
 ---
 
