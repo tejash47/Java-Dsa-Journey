@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Tree problems.
 
 | Solved | Total |
 |--------|------:|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
@@ -15,6 +15,7 @@ This folder contains my Java solutions for LeetCode Tree problems.
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 701 | Insert into a Binary Search Tree | Medium |
+| 104 | Maximum Depth of Binary Tree | Easy |
 
 ---
 
