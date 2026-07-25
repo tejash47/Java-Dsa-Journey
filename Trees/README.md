@@ -16,7 +16,8 @@ This folder contains my Java solutions for LeetCode Tree problems.
 |---|---------|------------|
 | 701 | Insert into a Binary Search Tree | Medium |
 | 104 | Maximum Depth of Binary Tree | Easy |
-
+| 100 | Same Tree | Easy | 
+| 226 | Invert Binary Tree | Easy |
 ---
 
 ## Concepts Covered
