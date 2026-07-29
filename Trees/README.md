@@ -18,6 +18,8 @@ This folder contains my Java solutions for LeetCode Tree problems.
 | 104 | Maximum Depth of Binary Tree | Easy |
 | 100 | Same Tree | Easy | 
 | 226 | Invert Binary Tree | Easy |
+| 543 | Diameter of Binary Tree | Easy |
+| 112 | Path Sum | Easy |
 ---
 
 ## Concepts Covered
