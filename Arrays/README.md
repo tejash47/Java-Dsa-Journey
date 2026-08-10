@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Array problems.
 
 | Solved | Total |
 |--------|------:|
-| 13 | 13 |
+| 14 | 14 |
 
 ---
 
@@ -28,6 +28,7 @@ Medium |
 | 217 | Contains Duplicate | Easy |
 | 283 | Move Zeroes | Easy |
 | 66 | Plus One | Easy |
+| 295 | Find Median from Data Stream | Hard |
 
 ---
 
