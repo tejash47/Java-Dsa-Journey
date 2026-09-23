@@ -1,0 +1,48 @@
+/*
+ * LeetCode 763 - Partition Labels
+ *
+ * Difficulty: Medium
+ * Topic: Arrays, Greedy, Two Pointers
+ *
+ * Approach:
+ * - Store the last occurrence of every character.
+ * - Traverse the string and keep extending the current partition
+ *   until we reach the last occurrence of every character in it.
+ * - Once the current index reaches the partition boundary,
+ *   record the partition length.
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
+
+import java.util.*;
+
+class Solution {
+
+    public List<Integer> partitionLabels(String s) {
+
+        int[] last = new int[26];
+
+        // Store the last occurrence of each character
+        for (int i = 0; i < s.length(); i++) {
+            last[s.charAt(i) - 'a'] = i;
+        }
+
+        List<Integer> result = new ArrayList<>();
+
+        int start = 0;
+        int end = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            end = Math.max(end, last[s.charAt(i) - 'a']);
+
+            if (i == end) {
+                result.add(end - start + 1);
+                start = i + 1;
+            }
+        }
+
+        return result;
+    }
+}

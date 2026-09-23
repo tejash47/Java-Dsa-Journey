@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Array problems.
 
 | Solved | Total |
 |--------|------:|
-| 16 | 16 |
+| 17 | 17 |
 
 ---
 
@@ -30,6 +30,7 @@ This folder contains my Java solutions for LeetCode Array problems.
 | 295 | Find Median from Data Stream | Hard |
 | 378 | Kth Smallest Element in a Sorted Matrix | Medium |
 | 978 | Longest Turbulent Subarray | Medium |
+| 763 | Partition Labels | Medium |
 
 ---
 
