@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 
 | Solved | Total |
 |--------|------:|
-| 8 | 8 |
+| 9 | 9 |
 
 ---
 
@@ -22,6 +22,7 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 | 155 | Min Stack | Medium |
 | 901 | Online Stock Span | Medium |
 | 739 | Daily Temperatures | Medium |
+| 239 | Sliding Window Maximum | Hard |
 
 ---
 
@@ -29,9 +30,12 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 
 - Stack
 - Queue
-- Queue using Stacks
-- Stack using Queues
-- Simulation
+- Deque
+- Monotonic Stack
+- Monotonic Deque
+- Sliding Window
+- LIFO
+- FIFO
 - Data Structure Design
 
 ---
