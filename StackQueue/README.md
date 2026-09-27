@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 
 | Solved | Total |
 |--------|------:|
-| 9 | 9 |
+| 10 | 10 |
 
 ---
 
@@ -23,6 +23,7 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 | 901 | Online Stock Span | Medium |
 | 739 | Daily Temperatures | Medium |
 | 239 | Sliding Window Maximum | Hard |
+| 994 | Rotting Oranges | Medium |
 
 ---
 
