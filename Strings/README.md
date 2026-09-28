@@ -16,7 +16,7 @@ This folder contains my Java solutions for LeetCode String problems.
 
 | Solved | Total |
 |--------|------:|
-| 6 | 6 |
+| 8 | 8 |
 
 ---
 
@@ -30,6 +30,7 @@ This folder contains my Java solutions for LeetCode String problems.
 | 14 | Longest Common Prefix | Easy |
 | 58 | Length of Last Word | Easy |
 | 28 | Find the Index of the First Occurrence in a String | Easy |
+| 567 | Permutation in String | Medium |
 
 ---
 
