@@ -16,7 +16,7 @@ This folder contains my Java solutions for LeetCode String problems.
 
 | Solved | Total |
 |--------|------:|
-| 8 | 8 |
+| 9 | 9 |
 
 ---
 
@@ -31,7 +31,7 @@ This folder contains my Java solutions for LeetCode String problems.
 | 58 | Length of Last Word | Easy |
 | 28 | Find the Index of the First Occurrence in a String | Easy |
 | 567 | Permutation in String | Medium |
-
+| 424 | Longest Repeating Character Replacement | Medium |
 ---
 
 ## Concepts Covered

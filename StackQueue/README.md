@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 
 | Solved | Total |
 |--------|------:|
-| 10 | 10 |
+| 11 | 11 |
 
 ---
 
@@ -24,6 +24,7 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 | 739 | Daily Temperatures | Medium |
 | 239 | Sliding Window Maximum | Hard |
 | 994 | Rotting Oranges | Medium |
+| 752 | Open the Lock | Medium |
 
 ---
 
