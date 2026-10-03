@@ -20,6 +20,7 @@ This folder contains my Java solutions for LeetCode Tree problems.
 | 226 | Invert Binary Tree | Easy |
 | 543 | Diameter of Binary Tree | Easy |
 | 112 | Path Sum | Easy |
+| 208 | Implement Trie (Prefix Tree) | Medium |
 ---
 
 ## Concepts Covered
