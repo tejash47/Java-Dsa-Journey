@@ -4,7 +4,7 @@
 
 | Solved | Total |
 |--------|------:|
-| 2 | 2 |
+| 3 | 3 |
 
 ## Problems
 
@@ -12,6 +12,7 @@
 |---|---------|------------|
 | 787 | Cheapest Flights Within K Stops | Medium |
 | 684 | Redundant Connection | Medium |
+| 130 | Surrounded Regions | Medium |
 
 ## Concepts Covered
 
