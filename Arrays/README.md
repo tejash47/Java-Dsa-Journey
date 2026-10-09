@@ -32,7 +32,8 @@ This folder contains my Java solutions for LeetCode Array problems.
 | 978 | Longest Turbulent Subarray | Medium |
 | 763 | Partition Labels | Medium |
 | 673 | Number of Longest Increasing Subsequence | Medium |
-
+| 15 | 3Sum | Medium |
+| 42 | Trapping Rain Water | Hard |
 ---
 
 ## Concepts Covered
