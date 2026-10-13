@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Tree problems.
 
 | Solved | Total |
 |--------|------:|
-| 2 | 2 |
+| 7 | 7 |
 
 ---
 
@@ -21,6 +21,7 @@ This folder contains my Java solutions for LeetCode Tree problems.
 | 543 | Diameter of Binary Tree | Easy |
 | 112 | Path Sum | Easy |
 | 208 | Implement Trie (Prefix Tree) | Medium |
+| 863 | All Nodes Distance K in Binary Tree | Medium |
 ---
 
 ## Concepts Covered

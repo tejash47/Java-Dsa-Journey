@@ -32,6 +32,8 @@ This folder contains my Java solutions for LeetCode String problems.
 | 28 | Find the Index of the First Occurrence in a String | Easy |
 | 567 | Permutation in String | Medium |
 | 424 | Longest Repeating Character Replacement | Medium |
+| 131 | Palindrome Partitioning | Medium |
+
 ---
 
 ## Concepts Covered
