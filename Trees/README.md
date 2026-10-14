@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Tree problems.
 
 | Solved | Total |
 |--------|------:|
-| 7 | 7 |
+| 8 | 8 |
 
 ---
 

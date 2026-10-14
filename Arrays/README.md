@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Array problems.
 
 | Solved | Total |
 |--------|------:|
-| 18 | 18 |
+| 21 | 21 |
 
 ---
 
@@ -25,6 +25,7 @@ This folder contains my Java solutions for LeetCode Array problems.
 | 136 | Single Number | Easy |
 | 169 | Majority Element | Easy |
 | 217 | Contains Duplicate | Easy |
+| 258 | Add Digits | Easy |
 | 283 | Move Zeroes | Easy |
 | 66 | Plus One | Easy |
 | 295 | Find Median from Data Stream | Hard |

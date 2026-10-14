@@ -18,7 +18,7 @@
       boolean isBadVersion(int version);
 */
 
-public class Solution extends VersionControl {
+class Solution extends VersionControl {
 
     public int firstBadVersion(int n) {
 

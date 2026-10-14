@@ -6,11 +6,9 @@ This folder contains my Java solutions for LeetCode Linked List problems.
 
 | Solved | Total |
 |--------|------:|
-| 4 | 4 |
+| 7 | 7 |
 
 ---
-
-## Problems
 
 ## Problems
 
@@ -19,7 +17,10 @@ This folder contains my Java solutions for LeetCode Linked List problems.
 | 21 | Merge Two Sorted Lists | Easy |
 | 83 | Remove Duplicates from Sorted List | Easy |
 | 141 | Linked List Cycle | Easy |
+| 146 | LRU Cache | Medium |
+| 203 | Remove Linked List Elements | Easy |
 | 206 | Reverse Linked List | Easy |
+| 876 | Middle of the Linked List | Easy |
 
 ---
 

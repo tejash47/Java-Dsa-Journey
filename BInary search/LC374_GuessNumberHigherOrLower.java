@@ -21,7 +21,7 @@
             otherwise return 0
 */
 
-public class Solution extends GuessGame {
+class Solution extends GuessGame {
 
     public int guessNumber(int n) {
 

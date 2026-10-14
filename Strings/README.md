@@ -1,22 +1,12 @@
 # Strings
 
-Java solutions for LeetCode String problems.
-
-## Problems
-
-- ✅ LC9 - Palindrome Number
-- ✅ LC242 - Valid Anagram
-
-**Total:** 4 Problems
-# Strings
-
 This folder contains my Java solutions for LeetCode String problems.
 
 ## Progress
 
 | Solved | Total |
 |--------|------:|
-| 9 | 9 |
+| 11 | 11 |
 
 ---
 
@@ -33,6 +23,8 @@ This folder contains my Java solutions for LeetCode String problems.
 | 567 | Permutation in String | Medium |
 | 424 | Longest Repeating Character Replacement | Medium |
 | 131 | Palindrome Partitioning | Medium |
+| 344 | Reverse String | Easy |
+| 392 | Is Subsequence | Easy |
 
 ---
 
