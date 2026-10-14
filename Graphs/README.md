@@ -1,18 +1,27 @@
 # Graphs
 
+This folder contains my Java solutions for LeetCode Graph and Grid Traversal problems.
+
 ## Progress
 
 | Solved | Total |
 |--------|------:|
-| 3 | 3 |
+| 6 | 6 |
+
+---
 
 ## Problems
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 787 | Cheapest Flights Within K Stops | Medium |
-| 684 | Redundant Connection | Medium |
+| 79 | Word Search | Medium |
 | 130 | Surrounded Regions | Medium |
+| 417 | Pacific Atlantic Water Flow | Medium |
+| 684 | Redundant Connection | Medium |
+| 695 | Max Area of Island | Medium |
+| 787 | Cheapest Flights Within K Stops | Medium |
+
+---
 
 ## Concepts Covered
 
@@ -20,16 +29,20 @@
 - Shortest Path
 - Bellman-Ford
 - Edge Relaxation
-- Dynamic Programming
-- Bounded Shortest Path
+- Breadth-First Search (BFS)
+- Depth-First Search (DFS)
+- Matrix Grid Traversal
+- Backtracking
+
+---
 
 ## Learning Outcomes
 
 - Understand shortest-path problems.
 - Apply Bellman-Ford relaxation.
-- Handle a limited number of stops.
-- Work with weighted directed graphs.
+- Traverse grid maps using BFS and DFS.
+- Solve connected components and cycle detection.
 
-## Language
+---
 
-Java
+Language: **Java**

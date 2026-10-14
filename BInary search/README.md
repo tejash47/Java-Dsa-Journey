@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Binary Search problems.
 
 | Solved | Total |
 |--------|------:|
-| 7 | 7 |
+| 8 | 8 |
 
 ---
 
@@ -16,11 +16,12 @@ This folder contains my Java solutions for LeetCode Binary Search problems.
 |---|---------|------------|
 | 35 | Search Insert Position | Easy |
 | 69 | Sqrt(x) | Easy |
-| 367 | Valid Perfect Square | Easy |
-| 852 | Peak Index in a Mountain Array | Medium |
-| 374 | Guess Number Higher or Lower | Easy |
+| 153 | Find Minimum in Rotated Sorted Array | Medium |
 | 278 | First Bad Version | Easy |
+| 367 | Valid Perfect Square | Easy |
+| 374 | Guess Number Higher or Lower | Easy |
 | 441 | Arranging Coins | Easy |
+| 852 | Peak Index in a Mountain Array | Medium |
 
 ---
 

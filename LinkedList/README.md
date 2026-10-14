@@ -27,12 +27,13 @@ This folder contains my Java solutions for LeetCode Linked List problems.
 ## Concepts Covered
 
 - Singly Linked List
+- Doubly Linked List
 - Pointer Manipulation
 - Dummy Node
 - Fast & Slow Pointers
 - Cycle Detection
 - In-place Reversal
-- Duplicate Removal
+- LRU Cache Design
 
 ---
 
@@ -42,7 +43,7 @@ This folder contains my Java solutions for LeetCode Linked List problems.
 - Merge sorted linked lists
 - Reverse a linked list in-place
 - Detect cycles using Floyd's Algorithm
-- Remove duplicates from sorted linked lists
+- Implement O(1) cache structures
 
 ---
 

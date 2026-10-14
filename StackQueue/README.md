@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 
 | Solved | Total |
 |--------|------:|
-| 11 | 11 |
+| 14 | 14 |
 
 ---
 
@@ -14,17 +14,20 @@ This folder contains my Java solutions for LeetCode Stack and Queue problems.
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 20 | Valid Parentheses | Easy |
+| 150 | Evaluate Reverse Polish Notation | Medium |
+| 155 | Min Stack | Medium |
 | 225 | Implement Stack using Queues | Easy |
 | 232 | Implement Queue using Stacks | Easy |
-| 933 | Number of Recent Calls | Easy |
-| 20 | Valid Parentheses | Easy |
-| 682 | Baseball Game | Easy |
-| 155 | Min Stack | Medium |
-| 901 | Online Stock Span | Medium |
-| 739 | Daily Temperatures | Medium |
 | 239 | Sliding Window Maximum | Hard |
-| 994 | Rotting Oranges | Medium |
+| 496 | Next Greater Element I | Easy |
+| 503 | Next Greater Element II | Medium |
+| 682 | Baseball Game | Easy |
+| 739 | Daily Temperatures | Medium |
 | 752 | Open the Lock | Medium |
+| 901 | Online Stock Span | Medium |
+| 933 | Number of Recent Calls | Easy |
+| 994 | Rotting Oranges | Medium |
 
 ---
 
