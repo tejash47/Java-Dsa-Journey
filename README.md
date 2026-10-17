@@ -38,14 +38,14 @@ java-dsa-journey/
 |--------|-------:|
 | Arrays | 45 |
 | Binary search | 8 |
-| Graphs | 6 |
+| Graphs | 7 |
 | LinkedList | 7 |
 | StackQueue | 14 |
 | Strings | 17 |
 | Trees | 18 |
 
-**Total Unique Problems Solved:** **114**  
-*(Total Solution Files: 115)*
+**Total Unique Problems Solved:** **115**  
+*(Total Solution Files: 116)*
 
 ---
 
@@ -115,6 +115,7 @@ java-dsa-journey/
 - LC684 - Redundant Connection
 - LC695 - Max Area of Island
 - LC787 - Cheapest Flights Within K Stops
+- LC886 - Possible Bipartition
 
 ### LinkedList
 - LC21 - Merge Two Sorted Lists
@@ -201,7 +202,7 @@ This repository serves as my personal DSA journal where I:
 
 ## 📈 Current Stats
 
-- ✅ Unique Problems Solved: **114**
+- ✅ Unique Problems Solved: **115**
 - 🔥 Daily Learning in Progress
 - 🚀 Repository Updated Regularly
 

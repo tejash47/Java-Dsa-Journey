@@ -6,7 +6,7 @@ This folder contains my Java solutions for LeetCode Graph and Grid Traversal pro
 
 | Solved | Total |
 |--------|------:|
-| 6 | 6 |
+| 7 | 7 |
 
 ---
 
@@ -20,6 +20,7 @@ This folder contains my Java solutions for LeetCode Graph and Grid Traversal pro
 | 684 | Redundant Connection | Medium |
 | 695 | Max Area of Island | Medium |
 | 787 | Cheapest Flights Within K Stops | Medium |
+| 886 | Possible Bipartition | Medium |
 
 ---
 
